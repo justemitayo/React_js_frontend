@@ -37,6 +37,7 @@ const Cart = () => {
               </div>
             )
           }
+          return null
         })}
       </div>
       <div className='cart-bottom'>
